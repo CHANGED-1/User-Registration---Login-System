@@ -339,7 +339,7 @@ SOFTWARE.
 If you encounter any issues or have questions:
 
 1. Check the [Troubleshooting](#troubleshooting) section
-2. Search existing [Issues](https://github.com/yourusername/user-auth-system/issues)
+2. Search existing [Issues](https://github.com/CHANGED-1/user-auth-system/issues)
 3. Open a new issue with detailed information
 4. Contact: consult@guloba.com
 
