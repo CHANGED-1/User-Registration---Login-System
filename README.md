@@ -68,7 +68,7 @@ Before you begin, ensure you have the following installed:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/user-auth-system.git
+git clone https://github.com/CHANGED-1/User-Registration---Login-System.git
 
 # Or download and extract the ZIP file
 ```
@@ -313,7 +313,7 @@ This project is licensed under the MIT License - see below for details:
 ```
 MIT License
 
-Copyright (c) 2024 [Your Name]
+Copyright (c) 2025 Guloba Moses
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -341,7 +341,7 @@ If you encounter any issues or have questions:
 1. Check the [Troubleshooting](#troubleshooting) section
 2. Search existing [Issues](https://github.com/yourusername/user-auth-system/issues)
 3. Open a new issue with detailed information
-4. Contact: your-email@example.com
+4. Contact: consult@guloba.com
 
 ## 🙏 Acknowledgments
 
